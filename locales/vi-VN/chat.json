@@ -18,14 +18,16 @@
     "title": "{{title}} Bản sao"
   },
   "duplicateTitle": "{{title}} Bản sao",
+  "emptyAgent": "Không có trợ lý",
   "historyRange": "Phạm vi lịch sử",
   "inbox": {
     "desc": "Kích hoạt cụm não, khơi dậy tia lửa tư duy. Trợ lý thông minh của bạn, ở đây để trò chuyện với bạn về mọi thứ.",
     "title": "Chuyện phiếm"
   },
   "input": {
+    "addAi": "Thêm một tin nhắn AI",
+    "addUser": "Thêm một tin nhắn người dùng",
     "more": "Thêm",
-    "onlyAdd": "Chỉ thêm tin nhắn",
     "send": "Gửi",
     "sendWithCmdEnter": "Nhấn {{meta}} + Enter để gửi",
     "sendWithEnter": "Nhấn Enter để gửi",

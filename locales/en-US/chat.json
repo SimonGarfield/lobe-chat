@@ -18,14 +18,16 @@
     "title": "{{title}} Copy"
   },
   "duplicateTitle": "{{title}} Copy",
+  "emptyAgent": "No assistant available",
   "historyRange": "History Range",
   "inbox": {
     "desc": "Activate the brain cluster and spark creative thinking. Your virtual agent is here to communicate with you about everything.",
     "title": "Just Chat"
   },
   "input": {
+    "addAi": "Add an AI message",
+    "addUser": "Add a user message",
     "more": "more",
-    "onlyAdd": "Only add message",
     "send": "Send",
     "sendWithCmdEnter": "Press {{meta}} + Enter to send",
     "sendWithEnter": "Press Enter to send",
@@ -47,10 +49,10 @@
   "sessionGroup": {
     "config": "Group Management",
     "confirmRemoveGroupAlert": "This group is about to be deleted. After deletion, the agents in this group will be moved to the default list. Please confirm your operation.",
-    "createAgentSuccess": "Assistant created successfully",
+    "createAgentSuccess": "Agent created successfully",
     "createGroup": "Add New Group",
     "createSuccess": "Created successfully",
-    "creatingAgent": "Creating assistant...",
+    "creatingAgent": "Creating agent...",
     "inputPlaceholder": "Please enter group name...",
     "moveGroup": "Move to Group",
     "newGroup": "New Group",

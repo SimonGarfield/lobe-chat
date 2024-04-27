@@ -18,14 +18,16 @@
     "title": "{{title}} نسخة"
   },
   "duplicateTitle": "{{title}} نسخة",
+  "emptyAgent": "لا يوجد مساعد",
   "historyRange": "نطاق التاريخ",
   "inbox": {
     "desc": "قم بتشغيل مجموعة الدماغ وأشعل شرارة التفكير. مساعدك الذكي، هنا حيث يمكنك التواصل بكل شيء",
     "title": "دردشة عشوائية"
   },
   "input": {
+    "addAi": "إضافة رسالة AI",
+    "addUser": "إضافة رسالة مستخدم",
     "more": "المزيد",
-    "onlyAdd": "إضافة الرسالة فقط",
     "send": "إرسال",
     "sendWithCmdEnter": "اضغط {{meta}} + Enter للإرسال",
     "sendWithEnter": "اضغط Enter للإرسال",

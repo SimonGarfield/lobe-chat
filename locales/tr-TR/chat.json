@@ -18,14 +18,16 @@
     "title": "{{title}} Kopyası"
   },
   "duplicateTitle": "{{title}} Kopya",
+  "emptyAgent": "Asistan yok",
   "historyRange": "Geçmiş Aralığı",
   "inbox": {
     "desc": "Beyin fırtınasını başlatın ve yaratıcı düşünmeye başlayın. Sanal asistanınız burada, her konuda sizinle iletişim kurmak için hazır.",
     "title": "Sohbet Et"
   },
   "input": {
+    "addAi": "Bir AI mesajı ekleyin",
+    "addUser": "Bir kullanıcı mesajı ekleyin",
     "more": "Daha fazla",
-    "onlyAdd": "Sadece mesaj ekle",
     "send": "Gönder",
     "sendWithCmdEnter": "{{meta}} + Enter tuşuna basarak gönder",
     "sendWithEnter": "Enter tuşuna basarak gönder",

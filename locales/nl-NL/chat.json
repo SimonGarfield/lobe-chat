@@ -18,14 +18,16 @@
     "title": "{{title}} Kopie"
   },
   "duplicateTitle": "{{title}} Kopie",
+  "emptyAgent": "Geen assistent beschikbaar",
   "historyRange": "Geschiedenisbereik",
   "inbox": {
     "desc": "Activeer de hersencluster en laat de vonken van gedachten overslaan. Je slimme assistent, hier om met je over alles te praten.",
     "title": "Praat maar raak"
   },
   "input": {
+    "addAi": "Voeg een AI-bericht toe",
+    "addUser": "Voeg een gebruikersbericht toe",
     "more": "Meer",
-    "onlyAdd": "Alleen bericht toevoegen",
     "send": "Verzenden",
     "sendWithCmdEnter": "Verzenden met {{meta}} + Enter",
     "sendWithEnter": "Verzenden met Enter",

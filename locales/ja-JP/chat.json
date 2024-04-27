@@ -18,14 +18,16 @@
     "title": "{{title}} のコピー"
   },
   "duplicateTitle": "{{title}} のコピー",
+  "emptyAgent": "エージェントがいません",
   "historyRange": "履歴範囲",
   "inbox": {
     "desc": "脳のクラスターを起動し、創造性を引き出しましょう。あなたのスマートアシスタントは、あなたとすべてのことについてここでコミュニケーションします。",
     "title": "気軽におしゃべり"
   },
   "input": {
+    "addAi": "AIメッセージを追加",
+    "addUser": "ユーザーメッセージを追加",
     "more": "もっと",
-    "onlyAdd": "メッセージのみ追加",
     "send": "送信",
     "sendWithCmdEnter": "{{meta}} + Enter キーで送信",
     "sendWithEnter": "Enter キーで送信",

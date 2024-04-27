@@ -18,14 +18,16 @@
     "title": "{{title}} 복사본"
   },
   "duplicateTitle": "{{title}} 복사본",
+  "emptyAgent": "도우미가 없습니다",
   "historyRange": "대화 기록 범위",
   "inbox": {
     "desc": "뇌 클러스터를 활성화하여 창의적인 아이디어를 끌어내는 인공지능 비서입니다. 여기서 모든 것에 대해 대화합니다.",
     "title": "무작위 대화"
   },
   "input": {
+    "addAi": "AI 메시지 추가",
+    "addUser": "사용자 메시지 추가",
     "more": "더 많은",
-    "onlyAdd": "메시지만 추가",
     "send": "전송",
     "sendWithCmdEnter": "{{meta}} + Enter 키로 전송",
     "sendWithEnter": "Enter 키로 전송",
